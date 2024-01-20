@@ -8,8 +8,6 @@ function App() {
     <>
     <div>
       <Heading />
-    </div>
-    <div>
       <Catagories/>
     </div>
     </>
