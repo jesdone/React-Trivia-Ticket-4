@@ -4,3 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+
+#body {
+  font-family: 'Lucida Grande';
+  font-weight: 800;
+  font-size: larger;
+}
