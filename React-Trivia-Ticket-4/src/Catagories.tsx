@@ -1,4 +1,5 @@
 // import React from 'react'
+// import { ReactDOM } from 'react';
 
 const Catagories = () => {
   return (
@@ -18,7 +19,7 @@ const Catagories = () => {
                 <p className="card-text">
                   Art trivia questions from the Painting Catagory.
                 </p>
-                <a href="#" className="btn btn-primary">
+                <a href="./PaintQues.tsx" className="btn btn-primary">
                   Go To Questions
                 </a>
               </div>
